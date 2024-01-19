@@ -7,7 +7,9 @@ Install IDE-Pycharm
 Install following libraries:
 
 1.cv2 command: pip install opencv
+
 2.numpy command: pip install numpy
+
 3.dlib command: pip install dlib
 4.sklearn command: pip install sklearn
 5.seaborn command: pip install seaborn
