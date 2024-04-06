@@ -1,6 +1,6 @@
 # Real-time-facial-expression-recognition
 
-#Project setup: Python version: 3.6
+# Project setup: Python version: 3.6
 
 Install IDE-Pycharm 
 
